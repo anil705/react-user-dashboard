@@ -1,8 +1,40 @@
-# React + Vite
+# React User Dashboard with Goal Tracking
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Demo
 
-Currently, two official plugins are available:
+[View Demo](https://react-user-dashboard-alpha.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- User List with search and sort functionality
+- Add new users with name and email
+- User goal tracking system
+- Goal completion statistics
+- Responsive design
+
+## Screenshots
+
+![Dashboard View](./screenshots/dashboard.png)
+![Add User](./screenshots/add-user.png)
+![User Details](./screenshots/user-details.png)
+![Adding Goal](./screenshots/adding-goal.png)
+
+## Design Decisions
+
+- Used React Hooks (useState, useEffect) for state management
+- Implemented responsive design using Material UI
+- Created modular components for better code organization
+- Used context API for global state management
+
+## Setup Instructions
+
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Run the application: `npm start`
+
+## Technologies Used
+
+- React.js
+- Material UI
+- React Hooks
+- CSS for styling
