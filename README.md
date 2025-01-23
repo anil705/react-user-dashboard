@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-[View Demo](https://react-user-dashboard-anil705.vercel.app)
+[View Demo](https://react-user-dashboard-alpha.vercel.app/)
 
 ## Features
 
